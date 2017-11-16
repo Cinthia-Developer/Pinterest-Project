@@ -1,6 +1,6 @@
 *{background: green;}
 .menu{width: 100%;}
-ul{padding: 0; list-style: none;}
+.contenedor div{width: 20%; display: inline-block;}
 
 @media screen and (max-width: 1000px){
 }
