@@ -46,6 +46,11 @@ $(document).ready(function(){
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB-8CwObkleFo1sQlSR_E-9Rdh5agxyLJVcEodYCYzRFfS26rh", "San Valentín", "Lorem ipsum dolor sit amet, consectetur adipisicing elit, pariatur optio illo nobis!", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeYzA2wAaMdA4DIFQJH9btNUlE-D3lCm18CTVdDneFgE3NV5bk", "Mirelia Soza"
     );
 });
-
+/*
+$('.elemento').masonry({
+  // options
+  itemSelector: '.cuadro',
+  columnWidth: 200
+});*/
 
 		
