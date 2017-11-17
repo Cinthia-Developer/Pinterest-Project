@@ -1,6 +1,6 @@
-*{background: green;}
+*{background: violet;}
 .menu{width: 100%;}
-.contenedor div{width: 20%; display: inline-block;}
+.cuadro{width: 20%; display: inline-block; border: 1px solid red; background: yellow; color: aqua;}
 
 @media screen and (max-width: 1000px){
 }
